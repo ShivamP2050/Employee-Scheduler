@@ -1,0 +1,11 @@
+Default password: Sq8%kN5x
+Default username: ezstop2923@yahoo.com
+Encryption/Decryption Key: EZstop
+
+Bot gmail username: ezstopemailbot
+Bot gmail password: Cu6^n1L3
+
+Dummy User: ez@ez.com
+Password: p
+
+This is an info document for the administrator to initially log on to the system.
