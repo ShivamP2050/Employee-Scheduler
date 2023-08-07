@@ -1,5 +1,5 @@
 # Employee-Scheduler
-Software that allows for a manager to schedule shifts for their employees
+Software allowing for the manager of a business to schedule shifts for their employees. Will also allow for employees to view the schedule assigned to them.
 Welcome to our new scheduling interface!
 
 As an admin you will have the ability to login and have access to special features.
